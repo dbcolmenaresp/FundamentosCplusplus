@@ -52,7 +52,7 @@ Un entorno de desarrollo de software libre para la edicion, depuracion y compila
 - Eclipse para desarrollo C/C++ entorno de desarrollo que ademas de compilar los programas escritos en lenguaje C, dispone de numerosas caracteristicas adicionales. 
 https://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/photonr
 
-# REFERENCIAS
+## REFERENCIAS
 
 C++  
 https://es.wikipedia.org/wiki/C%2B%2B
@@ -63,5 +63,5 @@ http://www4.tecnun.es/recursos/labmat0.html
 Fundamentos de programación con lenguaje C++  
 https://openlibra.com/es/book/fundamentos-de-programacion-con-c
 
-El lenguaje de programación C++
+El lenguaje de programación C++  
 https://www.freelibros.org/programacion/el-lenguaje-de-programacion-c-plus-plus
