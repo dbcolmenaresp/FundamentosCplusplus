@@ -15,10 +15,12 @@ Para implementar este sencillo algoritmo, se procede de la siguiente manera:
 
 Para poder mostrar informacion en la pantalla o leer informacion desde el teclado, se debe utilizar la libreria iostream
 
-´#include <iostream>´  
-´/*Directiva de preprocesador que le indica al compilador que agregue el contenido del archivo iostream
+~~~
+#include <iostream>  
+/*Directiva de preprocesador que le indica al compilador que agregue el contenido del archivo iostream
 este archivo debe incluirse en un programa que use las funciones para mostrar informacion en la pantalla o leer
-informacion del teclado*/´
+informacion del teclado*/
+~~~
 
 2. Definir el cuerpo de la función principal del programa.
 
@@ -27,11 +29,13 @@ A continuación se define la funcion principal del programa
 
 3. Mostrar un mensaje sencillo en la pantalla del computador.
 
-´//Se usa la funcion cout del archivo iostream para mostrar mensajes en pantalla´  
-´std::cout << "\nBienvenido a C++\n";´
+~~~
+//Se usa la funcion cout del archivo iostream para mostrar mensajes en pantalla  
+std::cout << "\nBienvenido a C++\n";
 
-´return 0; 	//indica que el programa temino satisfactoriamente  
-´}				//Fin de la funcion principal
+return 0; 	//indica que el programa temino satisfactoriamente  
+}				//Fin de la funcion principal
+~~~
 
 ## Herramientas para escritura y compilacion de programas con lenguaje de programacion C++
 
