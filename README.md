@@ -15,10 +15,12 @@ Para implementar este sencillo algoritmo, se procede de la siguiente manera:
 
 Para poder mostrar informacion en la pantalla o leer informacion desde el teclado, se debe utilizar la libreria iostream
 
+´´´
 #include <iostream>  
 /*Directiva de preprocesador que le indica al compilador que agregue el contenido del archivo iostream
 este archivo debe incluirse en un programa que use las funciones para mostrar informacion en la pantalla o leer
 informacion del teclado*/
+´´´
 
 2. Definir el cuerpo de la función principal del programa.
 
@@ -33,7 +35,7 @@ std::cout << "\nBienvenido a C++\n";
 return 0; 	//indica que el programa temino satisfactoriamente
 }				//Fin de la funcion principal
 
-# Herramientas para escritura y compilacion de programas con lenguaje de programacion C++
+## Herramientas para escritura y compilacion de programas con lenguaje de programacion C++
 
 Para poder compilar el codigo fuente de nuestro programa, tenemos diferentes alternativas, cada una mas completa que la anterior.
 
