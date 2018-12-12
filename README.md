@@ -1,7 +1,7 @@
 # Fundamentos del lenguaje de programacion C++
 ## Proyecto con fines educativos
 
-Se hace una revision basica del lenguaje de programacion C++ con la finalidad de hacer uso de este lenguaje de programacion para fines educativos.
+Se hace una revision basica del lenguaje de programacion [C++](https://es.wikipedia.org/wiki/C%2B%2B) con la finalidad de hacer uso de este lenguaje de programacion para fines educativos.
 
 Los componentes principales de un programa C++ son los siguientes:  
 - Directivas de preprocesamiento son las encargadas de definir los archivos adicionales que se importan en el programa para ser usados dentro del programa.  
