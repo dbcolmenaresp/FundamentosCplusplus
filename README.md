@@ -36,6 +36,8 @@ A continuación se define la funcion principal del programa
 int main(){		//Inicio de la funcion principal
 ~~~
 
+Después del main, se debe incluir una apertura y cierre de llaves con la finalidad de indicar que todas las sentencias que se indican a continuación pertenecen a un mismo bloque de código y evitar confusiones para el compilador.
+
 3. Mostrar un mensaje sencillo en la pantalla del computador.
 
 ~~~
