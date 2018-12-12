@@ -3,6 +3,13 @@
 
 Se hace una revision basica del lenguaje de programacion C++ con la finalidad de hacer uso de este lenguaje de programacion para fines educativos.
 
+Los componentes principales de un programa C++ son los siguientes:  
+- Directivas de preprocesamiento son las encargadas de definir los archivos adicionales que se importan en el programa para ser usados dentro del programa.  
+- Declaraciones globales son variables que se usan en todo el programa y que no tienen limite de vigencia dentro del programa.  
+- Función main es la función principal del programa donde inicia la ejecución del mismo y es obligatoria la existencia de una función main en todo programa en lenguaje C++.  
+- Funciones definidas por el usuario son funciones adicionales que define el usuario para realizar alguna tarea determinada o una acción que se repite dentro de la ejecución del programa, para hacerlo más legible y optimo.  
+- Comentarios para entender el comportamiento del programa son texto que se añade al programa con la finalidad de mejorar el entendimiento del programa, ya que a través de los mismos se hace una explicación breve del funcionamiento del bloque de código que se expone. Puede ser un comentario simple de una sola línea precedido por los símbolos // o un bloque de comentario de varias líneas iniciando con los símbolos /* y finalizando con los símbolos */.  
+
 Con la finalidad de desarrollar un programa sencillo que se encarga de mostrar un mensaje simple en pantalla con el lenguaje de programacion C++, se procede a ejecutar los siguientes pasos generales:
 
 1. Importar la libreria necesaria para poder usar las funciones de entrada y salida del lenguaje de programacion.  
