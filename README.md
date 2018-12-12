@@ -32,7 +32,9 @@ informacion del teclado*/
 2. Definir el cuerpo de la función principal del programa.
 
 A continuación se define la funcion principal del programa  
-´int main(){		//Inicio de la funcion principal´
+~~~
+int main(){		//Inicio de la funcion principal
+~~~
 
 3. Mostrar un mensaje sencillo en la pantalla del computador.
 
@@ -43,6 +45,8 @@ std::cout << "\nBienvenido a C++\n";
 return 0; 	//indica que el programa temino satisfactoriamente  
 }				//Fin de la funcion principal
 ~~~
+
+La sentencia return dentro de la función main tiene la función de devolver el control de ejecución al sistema operativo, devolviendo como argumento un valor numérico que indica la correcta finalización del programa ejecutado.
 
 ## Herramientas para escritura y compilacion de programas con lenguaje de programacion C++
 
