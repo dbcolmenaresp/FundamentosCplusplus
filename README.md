@@ -3,6 +3,8 @@
 
 Se hace una revision basica del lenguaje de programacion [C++](https://es.wikipedia.org/wiki/C%2B%2B) con la finalidad de hacer uso de este lenguaje de programacion para fines educativos.
 
+El lenguaje de programacion C++ puede ser considerado como una extensión del lenguaje C, debido a que permite muchas mas posibilidades que este.
+
 Los componentes principales de un programa C++ son los siguientes:  
 - Directivas de preprocesamiento son las encargadas de definir los archivos adicionales que se importan en el programa para ser usados dentro del programa.  
 - Declaraciones globales son variables que se usan en todo el programa y que no tienen limite de vigencia dentro del programa.  
