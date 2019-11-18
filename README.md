@@ -24,7 +24,7 @@ Para implementar este sencillo algoritmo, se procede de la siguiente manera:
 
 Para poder mostrar informacion en la pantalla o leer informacion desde el teclado, se debe utilizar la libreria iostream
 
-~~~
+~~~c++
 #include <iostream>  
 /*Directiva de preprocesador que le indica al compilador que agregue el contenido del archivo iostream
 este archivo debe incluirse en un programa que use las funciones para mostrar informacion en la pantalla o leer
