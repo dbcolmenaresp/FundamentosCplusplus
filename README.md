@@ -34,7 +34,8 @@ informacion del teclado*/
 2. Definir el cuerpo de la función principal del programa.
 
 A continuación se define la funcion principal del programa  
-~~~
+
+~~~c++
 int main(){		//Inicio de la funcion principal
 ~~~
 
@@ -42,7 +43,7 @@ Después del main, se debe incluir una apertura y cierre de llaves con la finali
 
 3. Mostrar un mensaje sencillo en la pantalla del computador.
 
-~~~
+~~~c++
 //Se usa la funcion cout del archivo iostream para mostrar mensajes en pantalla  
 std::cout << "\nBienvenido a C++\n";
 
