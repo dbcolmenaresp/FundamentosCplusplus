@@ -17,7 +17,7 @@ int main(){		//Inicio de la funcion principal
 	std::cout << "Programa realizado por Ing. Danny Colmenares\n";
 	std::cout << "Contacto twitter @dbcolmenaresp\n";
 	
-	//Se usa la funcion cout del archivo iostream para mostrar mensajes en pantalla
+	//Se usa la funcion cout de la libreria iostream para mostrar mensajes en pantalla
 	std::cout << "\nBienvenido a C++\n";
 
 	return 0; 	//indica que el programa temino satisfactoriamente
