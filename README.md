@@ -53,6 +53,26 @@ return 0; 	//indica que el programa temino satisfactoriamente
 
 La sentencia return dentro de la función main tiene la función de devolver el control de ejecución al sistema operativo, devolviendo como argumento un valor numérico que indica la correcta finalización del programa ejecutado.
 
+Se tiene la alternativa de incluir en el coódigo fuente la referencia a la inclusiòn del namespace std, evitando de esta manera estar usando esta referencia al momento de usar las función cout 
+
+~~~c++
+#include <iostream>  
+/*Directiva de preprocesador que le indica al compilador que agregue el contenido del archivo iostream
+este archivo debe incluirse en un programa que use las funciones para mostrar informacion en la pantalla o leer
+informacion del teclado*/
+
+using namespace std;
+~~~
+
+En este caso, para mostrar un mensaje por la consola, se utilizaria la siguiente sentencia
+
+~~~c++
+//Se usa la funcion cout del archivo iostream para mostrar mensajes en pantalla  
+cout << "\nBienvenido a C++\n";
+~~~
+
+La sentencia using namespace std; le dice al compilador que quieres usar directamente todos los elementos del espacio de nombres std, que es donde se encuentra la mayoría de las funciones y clases estándar del lenguaje, como cout, cin, string, vector, etc.
+
 ## Herramientas para escritura y compilacion de programas con lenguaje de programacion C++
 
 Para poder compilar el codigo fuente de nuestro programa, tenemos diferentes alternativas, cada una mas completa que la anterior.
