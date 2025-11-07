@@ -94,7 +94,9 @@ https://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/photonr
 
 [Aprenda C++ como si estuviera en primero](https://drive.google.com/file/d/1v2uGIJZb1hEaV1c9H9C87uMoaDysICWd/view)
 
-Fundamentos de programación con lenguaje C++  
+[Programación en C++](https://drive.google.com/file/d/16rbnPfm29Ij82u7lFwoUM6TWFKNjz3V8/view)
+
+Programación en C++  
 https://openlibra.com/es/book/fundamentos-de-programacion-con-c
 
 El lenguaje de programación C++  
